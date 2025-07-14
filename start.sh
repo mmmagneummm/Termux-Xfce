@@ -1,0 +1,3 @@
+clear
+echo Starting Xfce, press Ctrl+C to stop...
+termux-x11 -xstartup "xfce4-session"
